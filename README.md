@@ -132,6 +132,8 @@ GROUP BY Customer_Id
 ORDER BY Total_Purchase DESC
 ```
 
+![image](https://github.com/user-attachments/assets/c35d2a99-b13a-4bb4-bb82-fe10f49f76dc)
+
 Q7 calculate the percentage of total sales contributed by each region
 ```SQL
 SELECT Region, SUM(Revenue)/SUM(Quantity)*0.1 AS Percentage_of_Total_Sales
