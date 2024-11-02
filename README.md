@@ -40,7 +40,7 @@ In this initial phase of the Data cleaning and preparations, I performed the fol
 4. Performing analysis to get the Revenue and Total Sales
 
 ### EXPLORATORY DATA ANALYSIS
-This involves the exploring of the data to answerf some questions about the data. Such as:
+This involves the exploring of the data to answer some questions about the data. Such as:
 - Total Sales by Product
 - Total sales by Region
 - Total Sales by Month
@@ -52,9 +52,64 @@ This involves the exploring of the data to answerf some questions about the data
 ### DATA ANALYSIS
 This is where I include some line of codes, queries or some of the DAX expressions to answer the questions above
 
+Q1  Retrieve the total sales for each product category
 ```SQL
 SELECT Product,SUM(Quantity) as Total_Sales
 FROM [dbo].[LITA_SALES.DATA]
 GROUP BY Product
 ```
 
+Q2 Find the number of sales transactions in each region
+```SQL
+SELECT Region,SUM(Quantity) as Total_Sales
+FROM [dbo].[LITA_SALES.DATA]
+GROUP BY Region
+```
+
+Q3 Find the highest-selling product by total sales value
+```SQL
+SELECT  Product, SUM(Quantity) as Total_Sales
+FROM [dbo].[LITA_SALES.DATA]
+GROUP BY Product
+Order By Total_Sales Desc
+```
+
+Q4 Calculate total revenue per product
+```SQL
+SELECT Product,SUM(Quantity*UnitPrice) as Total_Revenue
+FROM [dbo].[LITA_SALES.DATA]
+GROUP BY Product
+```
+
+Q5 Calculate monthly sales totals for the current year(2024)
+```SQL
+SELECT  OrderMonth,SUM(Quantity) AS Total_Sales
+FROM [dbo].[LITA_SALES.DATA]
+WHERE OrderYear = 2024
+GROUP BY OrderMonth
+```
+
+Q6 find the top 5 customers by total purchase amount
+```SQL
+SELECT  Top 5 Customer_Id,SUM(Quantity) AS Total_Purchase
+FROM [dbo].[LITA_SALES.DATA]
+GROUP BY Customer_Id
+ORDER BY Total_Purchase DESC
+```
+
+Q7 calculate the percentage of total sales contributed by each region
+```SQL
+SELECT Region, SUM(Revenue)/SUM(Quantity)*0.1 AS Percentage_of_Total_Sales
+FROM [dbo].[LITA_SALES.DATA]
+GROUP BY Region
+ORDER BY Percentage_of_Total_Sales
+```
+
+Q8 Identify products with no sales in the last quarter
+```SQL
+SELECT Product,SUM(Quantity) AS Sales
+FROM [dbo].[LITA_SALES.DATA]
+WHERE MONTH(OrderDate) BETWEEN 10 AND 12  -- Months 10, 11, and 12 (October to December)
+GROUP BY Product
+HAVING SUM(Quantity)= 0
+```
