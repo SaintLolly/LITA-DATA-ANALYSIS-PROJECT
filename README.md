@@ -81,6 +81,9 @@ Q7.   ![image](https://github.com/user-attachments/assets/57766dd7-9b9a-4440-833
 
 ![image](https://github.com/user-attachments/assets/c327dfc5-b313-4780-b3f4-0269bf76f1b8)
 
+
+### The following are the analysis conducted on SQL
+
 Q1  Retrieve the total sales for each product category
 ```SQL
 SELECT Product,SUM(Quantity) as Total_Sales
@@ -156,3 +159,5 @@ WHERE MONTH(OrderDate) BETWEEN 10 AND 12  -- Months 10, 11, and 12 (October to D
 GROUP BY Product
 HAVING SUM(Quantity)= 0
 ```
+
+![image](https://github.com/user-attachments/assets/e03392e8-b2bb-43c5-809f-252b0dc24c1f)
