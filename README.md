@@ -77,6 +77,8 @@ FROM [dbo].[LITA_SALES.DATA]
 GROUP BY Region
 ```
 
+![image](https://github.com/user-attachments/assets/d3b05283-8ac8-409f-96f1-ccca9638ec79)
+
 Q3 Find the highest-selling product by total sales value
 ```SQL
 SELECT  Product, SUM(Quantity) as Total_Sales
