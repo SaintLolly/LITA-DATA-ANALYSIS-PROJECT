@@ -1,7 +1,7 @@
 # LITA-DATA-ANALYSIS-CAPSTONE-PROJECT
 
 ## PROJECT TITLE: SALES PERFORMANCE ANALYSIS
-PROJECT OVERVIEW
+PROJECT OVERVIEW: 
 In this project, I am tasked with analyzing the sales performance of a retail store. I will be exploring the sales data to uncover and understand patterns and trends such as total sales by product, region, month, average sales per product and total revenue by region. The focus of this project is to produce an interactive and interesting Power BI dashboard that highlights these findings.
 
 ### DATA SOURCE
