@@ -53,7 +53,7 @@ This involves the exploring of the data to answer some questions about the data.
 This is where I include some line of codes, queries or some of the DAX expressions to answer the questions above.
 The following analysis were done in Excel:
 
-![image](https://github.com/user-attachments/assets/b531ae12-161e-4a88-a32f-cba9f1e14634)
+Q1.  ![image](https://github.com/user-attachments/assets/b531ae12-161e-4a88-a32f-cba9f1e14634)
 
 ![image](https://github.com/user-attachments/assets/96ec0ea6-94ee-4087-ad0e-f0d2a963d9ff)
 
@@ -65,11 +65,6 @@ GROUP BY Product
 ```
 
 ![image](https://github.com/user-attachments/assets/8b42e593-0d70-4a1d-b6ea-87372fb5c1f8)
-
-
-
-
-
 
 Q2 Find the number of sales transactions in each region
 ```SQL
