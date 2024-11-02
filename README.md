@@ -52,5 +52,9 @@ This involves the exploring of the data to answerf some questions about the data
 ### DATA ANALYSIS
 This is where I include some line of codes, queries or some of the DAX expressions to answer the questions above
 
-
+```SQL
+SELECT Product,SUM(Quantity) as Total_Sales
+FROM [dbo].[LITA_SALES.DATA]
+GROUP BY Product
+```
 
