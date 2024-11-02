@@ -50,11 +50,12 @@ This involves the exploring of the data to answer some questions about the data.
 - Quantity of Product by Region
 
 ### DATA ANALYSIS
-This is where I include some line of codes, queries or some of the DAX expressions to answer the questions above
-The following analysis were done in Excel
+This is where I include some line of codes, queries or some of the DAX expressions to answer the questions above.
+The following analysis were done in Excel:
 
 
 
+![image](https://github.com/user-attachments/assets/96ec0ea6-94ee-4087-ad0e-f0d2a963d9ff)
 
 Q1  Retrieve the total sales for each product category
 ```SQL
@@ -63,7 +64,6 @@ FROM [dbo].[LITA_SALES.DATA]
 GROUP BY Product
 ```
 
-![image](https://github.com/user-attachments/assets/547d9d43-f747-45d4-8aa3-6411d7449a17)
 
 
 
