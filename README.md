@@ -51,6 +51,10 @@ This involves the exploring of the data to answer some questions about the data.
 
 ### DATA ANALYSIS
 This is where I include some line of codes, queries or some of the DAX expressions to answer the questions above
+The following analysis were done in Excel
+
+
+
 
 Q1  Retrieve the total sales for each product category
 ```SQL
