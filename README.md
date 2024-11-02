@@ -63,6 +63,10 @@ FROM [dbo].[LITA_SALES.DATA]
 GROUP BY Product
 ```
 
+![image](https://github.com/user-attachments/assets/547d9d43-f747-45d4-8aa3-6411d7449a17)
+
+
+
 Q2 Find the number of sales transactions in each region
 ```SQL
 SELECT Region,SUM(Quantity) as Total_Sales
