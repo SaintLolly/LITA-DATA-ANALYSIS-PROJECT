@@ -146,6 +146,8 @@ GROUP BY Region
 ORDER BY Percentage_of_Total_Sales
 ```
 
+![image](https://github.com/user-attachments/assets/fbdfa8e9-b50c-467a-b147-03fe6d8c1bec)
+
 Q8 Identify products with no sales in the last quarter
 ```SQL
 SELECT Product,SUM(Quantity) AS Sales
