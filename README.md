@@ -53,7 +53,7 @@ This involves the exploring of the data to answer some questions about the data.
 This is where I include some line of codes, queries or some of the DAX expressions to answer the questions above.
 The following analysis were done in Excel:
 
-
+![image](https://github.com/user-attachments/assets/b531ae12-161e-4a88-a32f-cba9f1e14634)
 
 ![image](https://github.com/user-attachments/assets/96ec0ea6-94ee-4087-ad0e-f0d2a963d9ff)
 
@@ -64,8 +64,7 @@ FROM [dbo].[LITA_SALES.DATA]
 GROUP BY Product
 ```
 
-![image](https://github.com/user-attachments/assets/b531ae12-161e-4a88-a32f-cba9f1e14634)
-
+![image](https://github.com/user-attachments/assets/26ab2454-a5be-442d-838d-1819f598bab1)
 
 
 
