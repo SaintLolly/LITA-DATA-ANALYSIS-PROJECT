@@ -118,6 +118,8 @@ WHERE OrderYear = 2024
 GROUP BY OrderMonth
 ```
 
+![image](https://github.com/user-attachments/assets/65a83758-b2b0-4806-b56c-ef985297db5e)
+
 Q6 find the top 5 customers by total purchase amount
 ```SQL
 SELECT  Top 5 Customer_Id,SUM(Quantity) AS Total_Purchase
