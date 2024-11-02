@@ -79,6 +79,8 @@ Q6.   ![image](https://github.com/user-attachments/assets/4ffa4764-0157-4336-bf4
 
 Q7.   ![image](https://github.com/user-attachments/assets/57766dd7-9b9a-4440-833c-b17f0886e663)
 
+![image](https://github.com/user-attachments/assets/c327dfc5-b313-4780-b3f4-0269bf76f1b8)
+
 Q1  Retrieve the total sales for each product category
 ```SQL
 SELECT Product,SUM(Quantity) as Total_Sales
