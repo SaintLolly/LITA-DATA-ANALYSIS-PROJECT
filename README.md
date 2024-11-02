@@ -91,6 +91,8 @@ GROUP BY Product
 Order By Total_Sales Desc
 ```
 
+![image](https://github.com/user-attachments/assets/b9923eea-6b5f-46f5-a7fa-6a6c916dd0e7)
+
 Q4 Calculate total revenue per product
 ```SQL
 SELECT Product,SUM(Quantity*UnitPrice) as Total_Revenue
