@@ -59,6 +59,7 @@ Q1.  ![image](https://github.com/user-attachments/assets/b531ae12-161e-4a88-a32f
 
 Q2.   ![image](https://github.com/user-attachments/assets/caf76543-658f-433b-a70c-a6e4d56ef0a1)
 
+![image](https://github.com/user-attachments/assets/c22bae29-d6ff-4fd1-afc2-7cfe66f51648)
 
 Q1  Retrieve the total sales for each product category
 ```SQL
