@@ -64,6 +64,7 @@ FROM [dbo].[LITA_SALES.DATA]
 GROUP BY Product
 ```
 
+![image](https://github.com/user-attachments/assets/0e14fd1f-56fd-4cc7-9fa0-674e92252c3d)
 
 
 
