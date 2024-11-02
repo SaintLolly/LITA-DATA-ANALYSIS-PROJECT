@@ -31,3 +31,26 @@ The dataset includes the following key columns:
 6. Quantity: The number of units sold for a given transaction
 7. Unit Price: The amount of unit sold for a given transaction
 8. Revenue/Total Sales: The total monetary value generated from the sale
+
+### DATA CLEANING AND PREPARATION
+In this initial phase of the Data cleaning and preparations, I performed the following actions:
+1. Data loading and Inspection
+2. Removing duplicates
+3. Cleaning and changing the data types
+4. Performing analysis to get the Revenue and Total Sales
+
+### EXPLORATORY DATA ANALYSIS
+This involves the exploring of the data to answerf some questions about the data. Such as:
+- Total Sales by Product
+- Total sales by Region
+- Total Sales by Month
+- Total Revenue by Region
+- Average Sales by Product
+- Total Revenue by Product
+- Quantity of Product by Region
+
+### DATA ANALYSIS
+This is where I include some line of codes, queries or some of the DAX expressions to answer the questions above
+
+
+
