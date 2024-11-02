@@ -104,6 +104,8 @@ FROM [dbo].[LITA_SALES.DATA]
 GROUP BY Product
 ```
 
+![image](https://github.com/user-attachments/assets/f1735187-0b20-4633-a0e8-3e156dfceeb3)
+
 Q5 Calculate monthly sales totals for the current year(2024)
 ```SQL
 SELECT  OrderMonth,SUM(Quantity) AS Total_Sales
