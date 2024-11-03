@@ -9,7 +9,7 @@ In this project, I am tasked with analyzing the sales performance of a retail st
 - SQL
 
 ### TOOLS USED IN THIS PROJECT
-- Microsoft Excel [Download Here].(https://wwww.microsoft.com)
+- Microsoft Excel [Download Here].(https://www.microsoft.com)
 1. for Data Cleaning
 2. Analysis
 3. Visualization
