@@ -161,3 +161,8 @@ HAVING SUM(Quantity)= 0
 ```
 
 ![image](https://github.com/user-attachments/assets/e03392e8-b2bb-43c5-809f-252b0dc24c1f)
+
+
+### The following are the visualization done on Power BI
+
+![image](https://github.com/user-attachments/assets/42155bcb-5401-484c-a83d-4590d033f7a3)
