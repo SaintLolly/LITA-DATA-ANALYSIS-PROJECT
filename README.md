@@ -1,10 +1,27 @@
 # LITA-DATA-ANALYSIS-CAPSTONE-PROJECT
 
 ## PROJECT TITLE: SALES PERFORMANCE ANALYSIS
+
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used-in-this-project)
+
+[Data Collected](#data-collected)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Inference](#inference)
+
 PROJECT OVERVIEW: 
 In this project, I am tasked with analyzing the sales performance of a retail store. I will be exploring the sales data to uncover and understand patterns and trends such as total sales by product, region, month, average sales per product and total revenue by region. The focus of this project is to produce an interactive and interesting Power BI dashboard that highlights these findings.
 
-### DATA SOURCE
+### DATA SOURCES
 - Excel
 - SQL
 
@@ -32,7 +49,7 @@ The dataset includes the following key columns:
 7. Unit Price: The amount of unit sold for a given transaction
 8. Revenue/Total Sales: The total monetary value generated from the sale
 
-### DATA CLEANING AND PREPARATION
+### DATA CLEANING AND PREPARATIONS
 In this initial phase of the Data cleaning and preparations, I performed the following actions:
 1. Data loading and Inspection
 2. Removing duplicates
