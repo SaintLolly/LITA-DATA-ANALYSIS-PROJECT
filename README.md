@@ -183,3 +183,8 @@ HAVING SUM(Quantity)= 0
 ### The following are the visualization done on Power BI
 
 ![image](https://github.com/user-attachments/assets/42155bcb-5401-484c-a83d-4590d033f7a3)
+
+### Inference
+
+- Regional Performance: The South maintains an increase in the number of purchased items, total revenue showing consistency in its performance.
+- Strategic Implications: The stability in revenue across regions suggests that while some areas are performing well, there may be opportunities for growth in regions like the South East and South South. Targeted marketing strategies could help enhance their performance. The Southern region's strong performance should be leveraged as a model for other regions, potentially sharing successful strategies or practices.
