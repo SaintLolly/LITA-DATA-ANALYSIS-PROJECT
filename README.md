@@ -186,32 +186,32 @@ HAVING SUM(Quantity)= 0
 
 ### Inference
 
-#### Total Sales by Product:
+#### Total Sales by Product
 This report outlines the total sales for each product based on the quantity sold. The data provided indicates the number of units sold for each product.
 1. Best-Selling Product: Hat leads the sales with a total of 15,929 units sold. This indicates strong customer preference and suggests high demand for this item compared to others.
 2. Other Top Performers: Shoes and Shirts follow closely, with 14,402 units and 12,388 units sold, respectively. These products also contribute significantly to the overall sales, with numbers that are comparable to the top seller (Hat).
 3. Moderate Sales: Gloves sold 12,369 units, slightly trailing behind Shirts, but still reflecting solid demand in the market.
 4. Lowest Sales: Jacket recorded the lowest sales with 5,452 units sold. This may indicate weaker demand, or that it is a more niche product compared to others like hats and shoes.
 
-#### Recommendations:
+#### Recommendations
 Focus on High Performers (Hat, Shoes, Shirt): Given their high sales figures, these products could be the focus of additional marketing efforts, promotional campaigns, or bundling strategies to further boost sales.
 
 i. Review Jacket and Socks: Since Jackets have the lowest sales, it may be useful to assess the market demand, pricing, or promotional strategies. For Socks, explore the possibility of increasing visibility or introducing variations in style or material to attract more customers.
 
 ii. Inventory and Replenishment Strategy: The high sales volumes for Hat, Shoes, and Shirts suggest that these items should be prioritized in inventory management to prevent stockouts, especially in peak sales periods.
 
-#### Conclusion:
+#### Conclusion
 This report shows a diverse range of product sales, with Hat emerging as the highest performer. By analyzing these sales trends, businesses can adjust strategies to capitalize on strong sellers and explore ways to boost the performance of lower-selling products.
 
-#### Total Sales by Region: 
+#### Total Sales by Region
 This report presents the total sales by region, based on the quantity of items sold. The data is categorized by region, with the quantity representing the total number of units sold in each region. South Region has the highest sales with 24,298 units, accounting for 28.11% of the total sales. This indicates that the South region is the most significant contributor to overall sales. East Region follows with 20,361 units, contributing 23.18% to the total sales. North Region sold 12,402 units, making up 14.26% of the total sales. This suggests a moderate contribution to overall sales but still a notable part of the total sales mix. West Region has the lowest sales with 11,400 units, representing 13.43% of the total sales. While the West region contributes the least in terms of quantity, it still makes up a significant portion of the total sales.
 
-#### Insights and Recommendations:
+#### Insights and Recommendations
 The South Region is the clear leader in sales, so further targeted marketing efforts or sales strategies in this region could yield even higher growth.
 The East Region performs well but lags behind the South. It might benefit from increased promotion or additional sales resources to close the gap.
 The North and West Regions are underperforming compared to the South and East, contributing relatively smaller shares of total sales. A deeper dive into market conditions or consumer behavior in these regions could help identify opportunities to improve performance.
 
-#### Conclusion:
+#### Conclusion
 The South region leads in total sales, followed by the East, North, and West regions. Analyzing regional performance is critical for identifying areas of opportunity. Focusing efforts on the regions with lower sales or leveraging the strengths of the higher-performing regions could help optimize sales across all regions.
 
 
