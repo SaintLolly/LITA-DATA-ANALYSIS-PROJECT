@@ -186,5 +186,25 @@ HAVING SUM(Quantity)= 0
 
 ### Inference
 
+- Total Sales by Product: This report outlines the total sales for each product based on the quantity sold. The data provided indicates the number of units sold for each product.
+1. Best-Selling Product: Hat leads the sales with a total of 15,929 units sold. This indicates strong customer preference and suggests high demand for this item compared to others.
+2. Other Top Performers: Shoes and Shirts follow closely, with 14,402 units and 12,388 units sold, respectively. These products also contribute significantly to the overall sales, with numbers that are comparable to the top seller (Hat).
+3. Moderate Sales: Gloves sold 12,369 units, slightly trailing behind Shirts, but still reflecting solid demand in the market.
+4. Lowest Sales: Jacket recorded the lowest sales with 5,452 units sold. This may indicate weaker demand, or that it is a more niche product compared to others like hats and shoes.
+Intermediate Performer:
+
+- Recommendations:
+Focus on High Performers (Hat, Shoes, Shirt): Given their high sales figures, these products could be the focus of additional marketing efforts, promotional campaigns, or bundling strategies to further boost sales.
+i. Review Jacket and Socks: Since Jackets have the lowest sales, it may be useful to assess the market demand, pricing, or promotional strategies. For Socks, explore the possibility of increasing visibility or introducing variations in style or material to attract more customers.
+
+ii. Inventory and Replenishment Strategy: The high sales volumes for Hat, Shoes, and Shirts suggest that these items should be prioritized in inventory management to prevent stockouts, especially in peak sales periods.
+
+Conclusion:
+This report shows a diverse range of product sales, with Hat emerging as the highest performer. By analyzing these sales trends, businesses can adjust strategies to capitalize on strong sellers and explore ways to boost the performance of lower-selling products.
+
+
+
+
+
 - Regional Performance: The South maintains an increase in the number of purchased items, total revenue showing consistency in its performance.
 - Strategic Implications: The stability in revenue across regions suggests that while some areas are performing well, there may be opportunities for growth in regions like the West and North. Targeted marketing strategies could help enhance their performance. The Southern region's strong performance should be leveraged as a model for other regions, potentially sharing successful strategies or practices.
