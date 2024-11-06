@@ -184,6 +184,8 @@ HAVING SUM(Quantity)= 0
 
 ![image](https://github.com/user-attachments/assets/42155bcb-5401-484c-a83d-4590d033f7a3)
 
+![image](https://github.com/user-attachments/assets/306eced4-48af-4fe4-b275-1288f280947f)
+
 ### Inference
 
 #### Total Sales by Product
