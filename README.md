@@ -182,7 +182,8 @@ HAVING SUM(Quantity)= 0
 
 ### The following are the visualization done on Power BI
 
-![image](https://github.com/user-attachments/assets/d4024baa-bc38-4b83-b2e7-4c4002bfdb2c)
+![image](https://github.com/user-attachments/assets/e956e82b-21df-42ba-8b78-99d877e5965b)
+
 
 
 ### Inference
